@@ -1,10 +1,10 @@
-# Microsoft 365 DevDays ExportingDataOpenXML Workshop
+# Microsoft 365 DevDays ExportingDataOpenXML Workshop Solution
 
 ## Exporting Data using Microsoft Graph, OXML, and SDK Office Add-ins
 
 In this repo you'll find the working solution code for the tutorial in: 
 
-[Exporting Data with OpenXML](https://github.com/InteropEvents/ExportingDataWithOpenXMLTutorial)
+[Exporting Data with OpenXML Tutorial](https://github.com/InteropEvents/ExportingDataWithOpenXMLTutorial)
 
 ## What the code does
 
