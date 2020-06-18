@@ -1,0 +1,64 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#Collection(microsoft.graph.plannerTask)",
+    "@odata.count": 2,
+    "value": [
+        {
+            "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAYCc=\"",
+            "planId": "CONGZUWfGUu4msTgNP66e2UAAySi",
+            "bucketId": "XfAo8wVDl0-Tw6tlzmALKmUAHMrn",
+            "title": "Take inventory ",
+            "orderHint": "8586962669214907176",
+            "assigneePriority": "",
+            "percentComplete": 0,
+            "startDateTime": null,
+            "createdDateTime": "2017-09-13T21:59:23.9868631Z",
+            "dueDateTime": null,
+            "hasDescription": false,
+            "previewType": "automatic",
+            "completedDateTime": null,
+            "completedBy": null,
+            "referenceCount": 0,
+            "checklistItemCount": 0,
+            "activeChecklistItemCount": 0,
+            "conversationThreadId": null,
+            "id": "jXZ0-ND1XU2yASUnu3iVkGUACNks",
+            "createdBy": {
+                "user": {
+                    "displayName": null,
+                    "id": "48d31887-5fad-4d73-a9f5-3c356e68a038"
+                }
+            },
+            "appliedCategories": {},
+            "assignments": {}
+        },
+        {
+            "@odata.etag": "W/\"JzEtVGFzayAgQEBAQEBAQEBAQEBAQEBAXCc=\"",
+            "planId": "CONGZUWfGUu4msTgNP66e2UAAySi",
+            "bucketId": "XfAo8wVDl0-Tw6tlzmALKmUAHMrn",
+            "title": "Research new trends",
+            "orderHint": "8586962669337441659",
+            "assigneePriority": "",
+            "percentComplete": 0,
+            "startDateTime": null,
+            "createdDateTime": "2017-09-13T21:59:11.7334148Z",
+            "dueDateTime": "2017-08-31T12:00:00Z",
+            "hasDescription": false,
+            "previewType": "automatic",
+            "completedDateTime": null,
+            "completedBy": null,
+            "referenceCount": 0,
+            "checklistItemCount": 0,
+            "activeChecklistItemCount": 0,
+            "conversationThreadId": null,
+            "id": "TKlyl6DaVk6_R4dEG3LGgGUAKQif",
+            "createdBy": {
+                "user": {
+                    "displayName": null,
+                    "id": "48d31887-5fad-4d73-a9f5-3c356e68a038"
+                }
+            },
+            "appliedCategories": {},
+            "assignments": {}
+        }
+    ]
+}
